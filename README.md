@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Maria  **Data Scientist & ML Engineer**
+## Hi there 👋 I'm Maria  - **Data Scientist & ML Engineer**
 
 <img src="https://github.com/vergarra/vergarra/blob/main/kitten-keybo.gif" alt="Coding Cat" width="80" align="right">
 I love writing code and learn anythings about it.
